@@ -267,11 +267,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+**Arzu Kirici**
+- 🧬 Scientist building user-friendly software for genomics research
+- 💼 Background: Genetic diagnostics, cancer research, multi-omics analysis
+- 🌐 Portfolio: [(https://www.arzukirici.com/)]
+- 💼 LinkedIn: [linkedin.com/in/arzukirici]
+- 📧 Email: [arzukirici@gmail.com]
 
 ## 🙏 Acknowledgments
 
@@ -279,13 +280,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The bioinformatics community for open-source tools and standards
 - Contributors and testers who helped improve this project
 
-## 📚 Additional Resources
-
-- [FASTQ Format Specification](https://en.wikipedia.org/wiki/FASTQ_format)
-- [Google Cloud Functions Documentation](https://cloud.google.com/functions/docs)
-- [BigQuery Best Practices](https://cloud.google.com/bigquery/docs/best-practices)
-- [Terraform GCP Provider](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
-
----
-
-⭐ **Star this repo if you find it useful!** ⭐
