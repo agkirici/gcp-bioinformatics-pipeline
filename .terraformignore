@@ -1,0 +1,8 @@
+# Ignore Terraform files that shouldn't be in version control
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+!terraform.tfvars.example
+

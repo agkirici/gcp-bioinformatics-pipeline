@@ -1,0 +1,72 @@
+# Dependencies
+node_modules/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.backup
+*.tfvars
+!terraform.tfvars.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files
+sample.fastq
+test_sample.fastq
+*.fastq
+*.fastq.gz
+
+# Dashboard output
+dashboard.html
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Temporary files
+/tmp/
+*.zip
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Build artifacts
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
